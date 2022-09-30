@@ -2,7 +2,6 @@
 {
     internal class Program
     {
-
         /*
          *Создать класс Date, включающий следующие члены: 
           поля day, month, year; 
